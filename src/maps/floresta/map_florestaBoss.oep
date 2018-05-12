@@ -1,0 +1,19 @@
+<project>
+	<name>Forest Map</name>
+	
+	<settings>
+		<defaultWidth>640</defaultWidth>
+		<defaultHeight>480</defaultHeight>
+		<workingDirectory>C:\Documents and Settings\Euler Neto\Meus documentos\Flash projects\Reven_fromTheAshes\src\maps\floresta</workingDirectory>
+	</settings>
+	
+	<tilesets>
+		<tileset name="tiles" image="tile_floresta.png" tileWidth="64" tileHeight="64" />
+	</tilesets>
+	
+	<layers>
+		<tiles name="camada" gridSize="64" />
+		<tiles name="camada2" gridSize="64" />
+		<tiles name="camada3" gridSize="64" />
+	</layers>	
+</project>

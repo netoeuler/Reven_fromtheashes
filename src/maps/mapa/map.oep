@@ -1,0 +1,19 @@
+<project>
+	<name>Example Map</name>
+	
+	<settings>
+		<defaultWidth>640</defaultWidth>
+		<defaultHeight>480</defaultHeight>
+		<workingDirectory>C:\Documents and Settings\Euler Neto\Meus documentos\Flash projects\Reven_fromTheAshes\src\maps\mapa</workingDirectory>
+	</settings>
+	
+	<tilesets>
+		<tileset name="tiles" image="tiles2.png" tileWidth="32" tileHeight="32" />
+	</tilesets>
+	
+	<layers>		
+		<tiles name="camada" gridSize="32" />
+		<tiles name="camada2" gridSize="32" />
+		<tiles name="camada3" gridSize="32" />
+	</layers>	
+</project>
